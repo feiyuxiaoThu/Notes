@@ -12,7 +12,7 @@
 
 <details>
   <summary>Click to expand</summary>
-![](../media/1-mcts-nnet-1.gif) 
+![](https://raw.githubusercontent.com/feiyuxiaoThu/Notes/master/media/1-mcts-nnet-1.gif) 
 
 Authors: Vermaelen, J., Dinh, H. T., & Holvoet, T.
 

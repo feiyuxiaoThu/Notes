@@ -1,5 +1,5 @@
 #! https://zhuanlan.zhihu.com/p/464644203
-#! https://zhuanlan.zhihu.com/p/464643910
+
 # Mobileye Planning Methods for Zeekr001
 
 > Prof. Shai Shalev-Shwartz 是 ME 的 CTO ，本身是 Online Learning 的专家，算是 AI 领域的理论派，也是 [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html) 一书的作者，他的很多观点是比较高屋建瓴值得深思的。此处为他的一个 [Talk](https://www.youtube.com/watch?v=ViGL0z1BULs) 
